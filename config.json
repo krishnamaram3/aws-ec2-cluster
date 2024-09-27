@@ -1,0 +1,6 @@
+{ 
+    "myregion" : "us-east-1",
+    "myami": "ami-002070d43b0a4f171",
+    "mypublickey" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDPKuTm1ftRS45/qAfPM0lHBX6fyZHBZ5LiHJUXvltpz7d1Y6HhA8CjSaMlwqJ1b79YL2T7MLPWCaldt6eMyovoYoA++WtJCk0wgZktlQkJ6Ox49VV+8qbQZVGDMyrpgpJi6UbTDv2yezGkdGK0x7ShDI6yaA3xD7z7h5b1UB8zcmvg18Z05Yz3pxxHEKAdDV4FG/ky4V66fxrKhmPxbG8Zd32qxbVtwAeE6XdTXna5eLdjrw8F7c6G+ElqZHwlYAkAf3hW/lrfdiPG7a8vRuyYM41DSC0Js6waudWyYHGpRKWB11Z7OJQdVXRsYq42M09e1Lk7dcMeV/IIm95GcAkd/FCB/CvAPme9rq63i9yXW7E5OGpXnDx6CUoXCRlEbEVwOVt1nidi1G1Xo1D/KgVKJDKpmlY27ZqhRbM//NDLfX73wmRJ4W9Dc4lW2adxca1ec1taQn+Y0ED53PnexdU7RoTwjc9RjKbTyf3przpRw1G5HlrD9t9NL+S5ryjlKM= Krishna@krish",
+    "server_count": 1
+}
