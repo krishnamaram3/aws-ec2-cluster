@@ -107,7 +107,7 @@ resource "aws_instance" "webapp_server" {
   vpc_security_group_ids = [aws_security_group.mysg.id]
   key_name = "my"
   subnet_id = aws_subnet.mysubnet.id
-  instance_type = "t2.medium"
+  instance_type = "t2.micro"
   tags = {
     Name = "webapp-server"
   }
